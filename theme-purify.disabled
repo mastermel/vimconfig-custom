@@ -1,3 +1,0 @@
-syntax on " This is required
-colorscheme purify
-hi Normal guibg=#252834 ctermbg=234
